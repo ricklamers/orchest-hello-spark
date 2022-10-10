@@ -1,0 +1,11 @@
+{
+    "name": "Main",
+    "parameters": {},
+    "settings": {
+        "auto_eviction": false,
+        "data_passing_memory_size": "1GB"
+    },
+    "steps": {},
+    "uuid": "17ff1121-e5ac-4b5c-9683-6541f175fc1c",
+    "version": "1.0.0"
+}
