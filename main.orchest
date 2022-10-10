@@ -1,11 +1,32 @@
 {
     "name": "Main",
     "parameters": {},
+    "services": {},
     "settings": {
         "auto_eviction": false,
         "data_passing_memory_size": "1GB"
     },
-    "steps": {},
+    "steps": {
+        "cd140f61-73a0-400a-87f9-d51cdb826511": {
+            "environment": "b6b9af33-1531-44c1-bc66-3b9bf7999d29",
+            "file_path": "pyspark.ipynb",
+            "incoming_connections": [],
+            "kernel": {
+                "display_name": "Python 3",
+                "name": "python"
+            },
+            "meta_data": {
+                "hidden": false,
+                "position": [
+                    202,
+                    301.5
+                ]
+            },
+            "parameters": {},
+            "title": "Run PySpark example",
+            "uuid": "cd140f61-73a0-400a-87f9-d51cdb826511"
+        }
+    },
     "uuid": "17ff1121-e5ac-4b5c-9683-6541f175fc1c",
-    "version": "1.0.0"
+    "version": "1.2.2"
 }
